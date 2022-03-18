@@ -1,7 +1,7 @@
 <?php
 /**
  * * NR le 24/12/2020
- *   ce fichier permet de réinitialiserles variables de session et 
+ *   ce fichier permet de réinzzzitialiserles variables de session et 
  *    déconnecté l'utilisateurjmjoô^kffzdfzdfzsdfsscdfz
  *    L'affichage propose de nouyveau les deux types d'utilisateurhjkjl&érefdhyuezrjkfduirhgjk
  **/ 
