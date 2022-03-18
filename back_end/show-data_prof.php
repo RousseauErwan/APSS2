@@ -3,7 +3,7 @@
  * * NR le 24/12/2020
  *   ce fichier permet de retrouver les informations nécessaires
  *   à l'affichage du tableau de bord
- *      . savoir si le stagiaire a obtenu un stage
+ *      . savoir si le stagiaire a obtenu un stageezfz
  *      . connaitrmùe les démarches effectuées par le candidat
  **/ 
 // Conservation de l'identifiant  pour  les traitements sur le professeur
